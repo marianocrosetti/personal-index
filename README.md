@@ -27,6 +27,8 @@ Small utilities and scripts for personal use.
 
 ### Work / Interviews — Job interview challenges
 Take-home assignments and coding challenges from interview processes.
+
+> **Disclaimer:** Solo están publicados los procesos de entrevista en los que no se aclaró que no se podía difundir el material entregado. Las consignas originales no están incluidas. Si alguien desea que su proceso sea dado de baja, puede enviar un mail a marianojosecrosetti@gmail.com.
 - [work-interviews-aceup-backend-challenge](https://github.com/marianocrosetti/work-interviews-aceup-backend-challenge) — Python API analyzing transcripts using OpenAI with hexagonal architecture for [AceUp](https://aceup.com/). *(fork)*
 - [work-interviews-edenmed-lung-segmentation](https://github.com/marianocrosetti/work-interviews-edenmed-lung-segmentation) — Lung segmentation ML challenge with U-Net models for [EdenMed](https://edenmed.com/).
 - [work-interviews-tesorio-ai-interview](https://github.com/marianocrosetti/work-interviews-tesorio-ai-interview) — Containerized Python app for data processing and analysis with OpenAI for [Tesorio](https://www.tesorio.com/).
