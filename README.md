@@ -71,5 +71,5 @@
 ### work / ventilemos
 - [work-ventilemos-arduino-esp32-fork](https://github.com/marianocrosetti/work-ventilemos-arduino-esp32-fork) — Arduino core for the ESP32. *(fork)*
 
-## other
+## learn — Courses and tutorials
 - [learn-cicd-starter](https://github.com/marianocrosetti/learn-cicd-starter) — Starter code for the "Learn CICD" course on Boot.dev. *(fork)*
