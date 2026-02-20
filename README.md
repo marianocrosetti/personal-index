@@ -13,6 +13,7 @@
 - [icpc-notebooks-eldiego-fork](https://github.com/marianocrosetti/icpc-notebooks-eldiego-fork) — Algorithm cheatsheet for ACM-ICPC competitions. *(fork)*
 
 ### icpc / tc — Training Camps
+Materials and problems from ICPC-style training camps in Latin America.
 - [icpc-tc-ubate-2019](https://github.com/marianocrosetti/icpc-tc-ubate-2019) — Training Camp Ubaté, Colombia, 2019.
 - [icpc-tc-utec-2024](https://github.com/marianocrosetti/icpc-tc-utec-2024) — Training Camp UTEC 2024.
 
@@ -22,14 +23,17 @@
 - [personal-research-agentic-experiments-2025](https://github.com/marianocrosetti/personal-research-agentic-experiments-2025) — Agentic experiments with multi-agent systems and math solving.
 
 ### personal / collaborations — Forks of open source projects
+Forks where I contributed or used as base for my own work.
 - [personal-collaborations-forks-cordova-plugin-echo](https://github.com/marianocrosetti/personal-collaborations-forks-cordova-plugin-echo) — Simple Cordova echo plugin for iOS and Android. *(fork)*
 - [personal-collaborations-forks-stanza](https://github.com/marianocrosetti/personal-collaborations-forks-stanza) — Stanford NLP Python library for many human languages. *(fork)*
 
 ### personal / tools
+Small utilities and scripts for personal use.
 - [personal-tools-instagram-unfollowers](https://github.com/marianocrosetti/personal-tools-instagram-unfollowers) — Check if people follow you back on Instagram. *(fork)*
 - [personal-tools-screenshare-mcp](https://github.com/marianocrosetti/personal-tools-screenshare-mcp) — MCP server for screen sharing capabilities.
 
 ### personal / webs
+Small web apps and side projects.
 - [personal-webs-phonetics](https://github.com/marianocrosetti/personal-webs-phonetics) — Interactive web tool for practicing phonetic transcription.
 - [personal-webs-shortcuts-practice](https://github.com/marianocrosetti/personal-webs-shortcuts-practice) — Interactive web app for practicing keyboard shortcuts.
 
@@ -47,6 +51,7 @@
 ## work
 
 ### work / amani
+Projects built during my time at Amani.
 - [work-amani-mapreduce](https://github.com/marianocrosetti/work-amani-mapreduce) — MapReduce exercise implementation.
 - [work-amani-xv6](https://github.com/marianocrosetti/work-amani-xv6) — xv6 educational operating system kernel implementation.
 
@@ -54,22 +59,27 @@
 - [work-faang-preparation](https://github.com/marianocrosetti/work-faang-preparation) — DSA interview cheatsheet in Python based on ICPC notebook.
 
 ### work / interviews — Job interview challenges
+Take-home assignments and coding challenges from interview processes.
 - [work-interviews-aceup-backend-challenge](https://github.com/marianocrosetti/work-interviews-aceup-backend-challenge) — Python API analyzing transcripts using OpenAI with hexagonal architecture. *(fork)*
 - [work-interviews-edenmed-lung-segmentation](https://github.com/marianocrosetti/work-interviews-edenmed-lung-segmentation) — Lung segmentation ML challenge with U-Net models.
 - [work-interviews-tesorio-ai-interview](https://github.com/marianocrosetti/work-interviews-tesorio-ai-interview) — Containerized Python app for data processing and analysis with OpenAI.
 
 #### work / interviews / imbue — Imbue interview process
+Data cleaning and corpus processing challenge for LLM pretraining.
 - [work-interviews-imbue-clean-corpus](https://github.com/marianocrosetti/work-interviews-imbue-clean-corpus) — Clean data pipeline for LLM pretraining.
 - [work-interviews-imbue-original-2024](https://github.com/marianocrosetti/work-interviews-imbue-original-2024) — Crawled data statistics calculator with extensible cleaning rules.
 
 #### work / interviews / lovable — Lovable interview process
+Take-home building a text-to-app tool similar to Lovable's product.
 - [work-interviews-lovable](https://github.com/marianocrosetti/work-interviews-lovable) — Text-to-app tool with chat, preview, and multi-project support.
 - [work-interviews-lovable-starter-template](https://github.com/marianocrosetti/work-interviews-lovable-starter-template) — React + TypeScript + Vite starter template.
 
 - [work-silverdev-interview-ready-fork](https://github.com/marianocrosetti/work-silverdev-interview-ready-fork) — Interview practice repo. *(fork)*
 
 ### work / ventilemos
+Repos from the Ventilemos project (CO2 monitoring for ventilation awareness).
 - [work-ventilemos-arduino-esp32-fork](https://github.com/marianocrosetti/work-ventilemos-arduino-esp32-fork) — Arduino core for the ESP32. *(fork)*
 
 ## learn — Courses and tutorials
+Repos from courses, tutorials, and learning exercises.
 - [learn-cicd-starter](https://github.com/marianocrosetti/learn-cicd-starter) — Starter code for the "Learn CICD" course on Boot.dev. *(fork)*
