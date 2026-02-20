@@ -3,8 +3,8 @@
 ## personal
 ### personal / webs
 Small web apps and side projects.
-- [personal-webs-phonetics](https://github.com/marianocrosetti/personal-webs-phonetics) — Interactive web tool for practicing phonetic transcription.
-- [personal-webs-shortcuts-practice](https://github.com/marianocrosetti/personal-webs-shortcuts-practice) — Interactive web app for practicing keyboard shortcuts.
+- [personal-webs-phonetics](https://github.com/marianocrosetti/personal-webs-phonetics) — Interactive web tool for practicing phonetic transcription. [Live](https://marianocrosetti.github.io/personal-webs-phonetics/)
+- [personal-webs-shortcuts-practice](https://github.com/marianocrosetti/personal-webs-shortcuts-practice) — Interactive web app for practicing keyboard shortcuts. [Live](https://marianocrosetti.github.io/personal-webs-shortcuts-practice/)
 
 ### personal / collaborations — Forks of open source projects
 Forks where I contributed or used as base for my own work.
@@ -27,17 +27,17 @@ Small utilities and scripts for personal use.
 
 ### work / interviews — Job interview challenges
 Take-home assignments and coding challenges from interview processes.
-- [work-interviews-aceup-backend-challenge](https://github.com/marianocrosetti/work-interviews-aceup-backend-challenge) — Python API analyzing transcripts using OpenAI with hexagonal architecture. *(fork)*
-- [work-interviews-edenmed-lung-segmentation](https://github.com/marianocrosetti/work-interviews-edenmed-lung-segmentation) — Lung segmentation ML challenge with U-Net models.
-- [work-interviews-tesorio-ai-interview](https://github.com/marianocrosetti/work-interviews-tesorio-ai-interview) — Containerized Python app for data processing and analysis with OpenAI.
+- [work-interviews-aceup-backend-challenge](https://github.com/marianocrosetti/work-interviews-aceup-backend-challenge) — Python API analyzing transcripts using OpenAI with hexagonal architecture for [AceUp](https://aceup.com/). *(fork)*
+- [work-interviews-edenmed-lung-segmentation](https://github.com/marianocrosetti/work-interviews-edenmed-lung-segmentation) — Lung segmentation ML challenge with U-Net models for [EdenMed](https://edenmed.com/).
+- [work-interviews-tesorio-ai-interview](https://github.com/marianocrosetti/work-interviews-tesorio-ai-interview) — Containerized Python app for data processing and analysis with OpenAI for [Tesorio](https://www.tesorio.com/).
 
-#### work / interviews / imbue — Imbue interview process
-Data cleaning and corpus processing challenge for LLM pretraining for Imbue
+#### work / interviews / imbue — [Imbue](https://imbue.com/) interview process
+Data cleaning and corpus processing challenge for LLM pretraining for [Imbue](https://imbue.com/).
 - [work-interviews-imbue-clean-corpus](https://github.com/marianocrosetti/work-interviews-imbue-clean-corpus) — Clean data pipeline for LLM pretraining.
 - [work-interviews-imbue-original-2024](https://github.com/marianocrosetti/work-interviews-imbue-original-2024) — Crawled data statistics calculator with extensible cleaning rules.
 
-#### work / interviews / lovable — Lovable interview process
-Take-home building a text-to-app tool similar to Lovable's product.
+#### work / interviews / lovable — [Lovable](https://lovable.dev/) interview process
+Take-home building a text-to-app tool similar to [Lovable](https://lovable.dev/)'s product.
 - [work-interviews-lovable](https://github.com/marianocrosetti/work-interviews-lovable) — Text-to-app tool with chat, preview, and multi-project support.
 - [work-interviews-lovable-starter-template](https://github.com/marianocrosetti/work-interviews-lovable-starter-template) — React + TypeScript + Vite starter template.
 
