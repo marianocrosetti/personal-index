@@ -13,7 +13,7 @@ Forks where I contributed
 
 ### Personal / Tools
 Small utilities and scripts for personal use.
-- [personal-tools-instagram-unfollowers](https://github.com/marianocrosetti/personal-tools-instagram-unfollowers) — Check if people follow you back on Instagram. *(fork)*
+- [personal-tools-instagram-unfollowers](https://github.com/marianocrosetti/personal-tools-instagram-unfollowers) — Check if people follow you back on Instagram. Unfollow them in bulk if not. *(fork)*
 - [personal-tools-screenshare-mcp](https://github.com/marianocrosetti/personal-tools-screenshare-mcp) — MCP server for screen sharing capabilities.
 
 ### Others
