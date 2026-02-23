@@ -19,7 +19,6 @@ Small utilities and scripts for personal use.
 ### Others
 - [personal-blogpost-fastai-android-demo](https://github.com/marianocrosetti/personal-blogpost-fastai-android-demo) — How to run a PyTorch model trained with FastAI on Android.
 - [personal-libraries-arggeodir](https://github.com/marianocrosetti/personal-libraries-arggeodir) — Argentina geographic/demographic information in hierarchical view.
-- [personal-research-agentic-experiments-2025](https://github.com/marianocrosetti/personal-research-agentic-experiments-2025) — Agentic experiments with multi-agent systems and math solving.
 
 
 ## Work
@@ -71,6 +70,7 @@ Materials and problems from training camps I delivered in Latin America.
 
 ## Research
 Repos with research done.
+- [research-agentic-experiments-2025](https://github.com/marianocrosetti/research-agentic-experiments-2025) — Agentic experiments with multi-agent systems and math solving.
 - [research-quark-multihop-queries](https://github.com/marianocrosetti/research-quark-multihop-queries) — Multi-hop query research at Quark.
 
 ## UNR
