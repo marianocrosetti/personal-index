@@ -75,9 +75,9 @@ Repos with research done.
 
 ## UNR
 Repos from my time at [Universidad Nacional de Rosario](https://unr.edu.ar/) (studying MSc Computer Science).
-- [unr-alp-copatterns](https://github.com/marianocrosetti/unr-alp-copatterns) — Mini programming language implementing copatterns.
-- [unr-compilador](https://github.com/marianocrosetti/unr-compilador) — Tiger compiler implementation in ML. *(fork)*
-- [unr-distributed-fs](https://github.com/marianocrosetti/unr-distributed-fs) — Distributed file system in C++ and Erlang.
+- [unr-alp-copatterns](https://github.com/marianocrosetti/unr-alp-copatterns) — Original contribution: first polynomial-time algorithm for copattern coverage checking, extending [Abel et al. (POPL 2013)](http://www.cse.chalmers.se/~abela/popl13.pdf) which proposed an NP algorithm. Includes an interpreter and the coverage checker implemented in Haskell.
+- [unr-compilador](https://github.com/marianocrosetti/unr-compilador) — Full end-to-end compiler for the Tiger language (source to binary), implementing all stages of a production compiler: lexing, parsing, semantic analysis, IR generation, instruction selection, register allocation, and code emission. Handles complex features like nested functions with static links. *(fork)*
+- [unr-distributed-fs](https://github.com/marianocrosetti/unr-distributed-fs) — Distributed file system built in C++ and Erlang, handling node coordination, replication, and fault tolerance.
 - [unr-metodos-numericos](https://github.com/marianocrosetti/unr-metodos-numericos) — Numerical methods course assignments.
 - [unr-tesina](https://github.com/marianocrosetti/unr-tesina) — Signature detection thesis using deep learning and Siamese networks.
 - [unr-tpdesbordamiento](https://github.com/marianocrosetti/unr-tpdesbordamiento) — Buffer overflow vulnerabilities: exploits, patches, and security analysis.
