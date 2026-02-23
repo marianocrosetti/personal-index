@@ -7,7 +7,7 @@ Small web apps and side projects.
 - [personal-webs-shortcuts-practice](https://github.com/marianocrosetti/personal-webs-shortcuts-practice) — Interactive web app for practicing keyboard shortcuts. [:globe_with_meridians: Try it](https://marianocrosetti.github.io/personal-webs-shortcuts-practice/)
 
 ### Personal / Collaborations — Forks of open source projects
-Forks where I contributed or used as base for my own work.
+Forks where I contributed
 - [personal-collaborations-forks-cordova-plugin-echo](https://github.com/marianocrosetti/personal-collaborations-forks-cordova-plugin-echo) — Simple Cordova echo plugin for iOS and Android. *(fork)*
 - [personal-collaborations-forks-stanza](https://github.com/marianocrosetti/personal-collaborations-forks-stanza) — Stanford NLP Python library for many human languages. *(fork)*
 
