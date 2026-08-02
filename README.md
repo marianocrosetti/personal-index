@@ -93,3 +93,4 @@ Dashboards were made for seeing the progression during the COVID-19 pandemic.
 ## Learn
 Repos from courses, tutorials, and learning exercises.
 - [learn-cicd-starter](https://github.com/marianocrosetti/learn-cicd-starter) — Starter code for the "Learn CICD" course on Boot.dev. *(fork)*
+- [learn-eci-2026-secinfo](https://github.com/marianocrosetti/learn-eci-2026-secinfo) — Notes from the Information Security course at [ECI](https://eci.dc.uba.ar/) 2026 (UBA).
