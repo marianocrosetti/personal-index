@@ -3,6 +3,7 @@
 ## Personal
 ### Personal / Webs
 Small web apps and side projects.
+- [personal-web-marianocrosetti](https://github.com/marianocrosetti/personal-web-marianocrosetti) — My personal website: static copy of marianocrosetti.com with a Formspree-backed contact form. [:globe_with_meridians: Try it](https://new.marianocrosetti.com/)
 - [personal-webs-phonetics](https://github.com/marianocrosetti/personal-webs-phonetics) — Interactive web tool for practicing phonetic transcription. [:globe_with_meridians: Try it](https://marianocrosetti.github.io/personal-webs-phonetics/)
 - [personal-webs-shortcuts-practice](https://github.com/marianocrosetti/personal-webs-shortcuts-practice) — Interactive web app for practicing keyboard shortcuts. [:globe_with_meridians: Try it](https://marianocrosetti.github.io/personal-webs-shortcuts-practice/)
 
