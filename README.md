@@ -56,6 +56,7 @@ Computer Science projects for UC Davis, California.
 ### Work / Ventilemos
 Repos from the [ventilemos.com.ar](https://ventilemos.com.ar/) project (CO2 monitoring for ventilation awareness).
 - [work-ventilemos-arduino-esp32-fork](https://github.com/marianocrosetti/work-ventilemos-arduino-esp32-fork) — Arduino core for the ESP32. *(fork)*
+- [work-ventilemos-web](https://github.com/marianocrosetti/work-ventilemos-web) — Static copy of ventilemos.com.ar (originally on Wix). [:globe_with_meridians: Try it](https://new.ventilemos.com.ar/)
 
 ## ICPC
 Competitive programming repos.
