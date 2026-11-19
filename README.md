@@ -97,3 +97,4 @@ Dashboards were made for seeing the progression during the COVID-19 pandemic.
 Repos from courses, tutorials, and learning exercises.
 - [learn-cicd-starter](https://github.com/marianocrosetti/learn-cicd-starter) — Starter code for the "Learn CICD" course on Boot.dev. *(fork)*
 - [learn-eci-2026-secinfo](https://github.com/marianocrosetti/learn-eci-2026-secinfo) — Notes from the Information Security course at [ECI](https://eci.dc.uba.ar/) 2026 (UBA).
+- [learn-httpserver-typescript](https://github.com/marianocrosetti/learn-httpserver-typescript) — HTTP server in TypeScript (Express, Drizzle ORM, PostgreSQL, JWT auth) from the "Learn HTTP Servers in TypeScript" course on Boot.dev.
